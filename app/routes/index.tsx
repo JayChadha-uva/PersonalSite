@@ -7,10 +7,10 @@ export default function Index() {
   <div className="flex justify-center items-center" id="navbar-sticky">
   <ul className=" flex flex-row gap-x-5 text-md font-medium border-0 bg-white dark:bg-gray-900 dark:border-gray-700">
       <li>
-        <a href="#" className="text-white hover:bg-transparent text-blue-700 p-0 dark:text-white" aria-current="page">About</a>
+        <a href="/" className="text-white hover:bg-transparent text-blue-700 p-0 dark:text-white" aria-current="page">About</a>
       </li>
       <li>
-        <a href="#" className="hover:bg-transparent hover:text-blue-700 p-0 dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:hover:bg-transparent dark:border-gray-700">Portfolio</a>
+        <a href="/portfolio" className="hover:bg-transparent hover:text-blue-700 p-0 dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:hover:bg-transparent dark:border-gray-700">Portfolio</a>
       </li>
       <li>
         <a href="#" className="hover:bg-transparent hover:text-blue-700 p-0 dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white dark:hover:bg-transparent dark:border-gray-700">Contact</a>
