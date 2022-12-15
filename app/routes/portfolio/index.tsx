@@ -1,6 +1,10 @@
 export default function Index() {
     return (
       
+        <section>
+
+
+        
   <nav className="bg-white px-2 sm:px-4 py-2.5 dark:bg-gray-900 fixed w-full z-20 top-0 left-0 border-b border-gray-200 dark:border-gray-600">
     <div className="grid grid-cols-3">
     <div className="self-center text-xl font-semibold whitespace-nowrap dark:text-white my-3 ml-5">Jay Chadha</div>
@@ -20,6 +24,11 @@ export default function Index() {
     </div>
     <div></div>
   </nav>
+
+  <div className="bg-white dark:bg-gray-900">
+asdfasfd
+  </div>
+  </section>
   
     );
   }
